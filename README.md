@@ -1,7 +1,37 @@
 # samuel-public-license
 The latest Samuel Public License (SPL)
 
-## Goals as of The Samuel Public License Revision 3 (SPL-R3)
+## Quick (fun) overview
+
+Howdy! Here's a summary of The Samuel Public License (SPL-R3):
+
+- **Who Owns It?**
+  - Created by Samuel Lord in 2024.
+
+- **What's Allowed?**
+  - You can use, copy, modify, and share the software freely.
+  - No need to pay for it, and you can even sell it if you want.
+
+- **Conditions:**
+  - If you use it, make sure to include a copyright notice and permission info.
+  
+- **No Guarantees:**
+  - The software is provided as-is, without any promises of it working perfectly.
+  - If something goes wrong, the creators aren't responsible.
+
+- **Contributions:**
+  - If you contribute to the software, you're giving up your rights to the project owner.
+  - But hey, you can still change what you contributed.
+
+- **Sharing is Caring:**
+  - You can share and use the software's code freely, just keep the copyright and permission details.
+
+- **Keep it Updated:**
+  - If you own the code, you can update it to the latest version of this license whenever you want.
+
+Remember to code responsibly and have fun building awesome things! 🚀✨
+
+## A more technical (boring) overview.
 
 - **Permission Grant:**
   - Individuals acquiring the Software are granted permission without charge.
