@@ -9,7 +9,7 @@ Howdy! Here's a summary of The Samuel Public License (SPL-R3):
   - Created by Samuel Lord in 2024.
 
 - **What's Allowed?**
-  - You can use, copy, modify, and share the software freely.
+  - You can use, copy, modify, and share the software with limitations.
   - No need to pay for it, and you can even sell it if you want.
 
 - **Conditions:**
@@ -35,7 +35,7 @@ Remember to code responsibly and have fun building awesome things! 🚀✨
 
 - **Permission Grant:**
   - Individuals acquiring the Software are granted permission without charge.
-  - Authorized activities include using, copying, modifying, merging, publishing, distributing, sublicensing, and selling copies of the Software.
+  - Authorized activities include (with limitations) using, copying, modifying, merging, publishing, distributing, sublicensing, and selling copies of the Software.
   - Permissions extend to individuals to whom the Software is furnished, subject to specified conditions.
   
 - **Conditions:**
