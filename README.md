@@ -3,7 +3,17 @@ The latest Samuel Public License (SPL)
 
 ## What is the point of this?
 
-In essence, the SPL-R4 is designed to provide a balance between granting users significant freedoms in using the software while ensuring certain conditions are met and maintaining ownership rights for the original authors.
+In essence, the SPL-R4 is designed to foster a collaborative and open development environment by granting users extensive freedoms in utilizing the software. Users are empowered to engage in a variety of activities, from modifying and distributing the code to even selling copies of the software, all without incurring charges.
+
+However, to ensure accountability and maintain a fair framework, certain conditions must be observed. Users are obligated to include the copyright and permission notices when redistributing the software, preserving the acknowledgment of the original authors' contributions.
+
+One distinctive feature of the SPL-R4 is its approach to contributions. Contributors play a crucial role but, in doing so, relinquish their rights to the project owner(s) while retaining the ability to modify their contributions. This dynamic strikes a balance, encouraging collaboration while clarifying ownership arrangements.
+
+Moreover, the license emphasizes the importance of acknowledging and agreeing to the ownership rights retained by the original authors over the source code. This not only recognizes their intellectual property but also reinforces a commitment to the principles of responsible software use.
+
+Additionally, the SPL-R4 grants the owner of the code the flexibility to keep their copy of the license up-to-date by allowing updates to the latest revision. This ensures that the software remains aligned with any subsequent improvements or changes made to The Samuel Public License.
+
+In summary, the SPL-R4 reflects a thoughtful compromise, empowering users with freedoms, setting conditions for responsible use, and affirming ownership rights, ultimately fostering a collaborative and sustainable open-source ecosystem.
 
 ## Quick (fun) overview
 
@@ -63,3 +73,7 @@ Remember to code responsibly and have fun building awesome things! 🚀✨
 - **License Update:**
   - The owner of the code is granted authority to update their copy of The Samuel Public License (SPL) to the latest revision.
   - Update may be undertaken at the owner's discretion to align with subsequent revisions made to The Samuel Public License.
+
+## The easy (and lazy) way to create a copy of the latest SPL
+
+Use [this tool](https://nodemixaholic.com/generate-spl/) to enter your name (or the name of your org), and it will output a copy of the SPL easily and for free. You can see the source for this tool [here.](generate-spl/)
