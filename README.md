@@ -23,23 +23,23 @@ SPL-R5 is the cool new kid in open-source licensing! 🚀 It grants you the powe
 
 ## A more technical (boring) overview.
 
-## Permissions Galore
+### Permissions Galore
 
 SPL-R5 is a permissive open-source license allowing individuals to exercise a range of rights, including usage, modification, and distribution of the software. The license extends these permissions to those who receive the software.
 
-## AI Integration
+### AI Integration
 
 A notable aspect of SPL-R5 is its explicit permission for the use of AI-assisted tools like GitHub Copilot and ChatGPT. This forward-looking stance acknowledges the growing role of artificial intelligence in the development process.
 
-## Contribution Dynamics
+### Contribution Dynamics
 
 Contributors to the project irrevocably assign their rights, titles, and interests in their contributions to the project owner(s). While contributors yield their rights, they retain the autonomy to modify their contributions.
 
-## Corporate Involvement
+### Corporate Involvement
 
 SPL-R5 encourages corporate participation by urging companies to contribute upstream. Fortune 500 companies are additionally encouraged to make an annual financial contribution to support the sustainability of the project.
 
-## License Evolution
+### License Evolution
 
 To ensure adaptability to future changes, SPL-R5 grants the owner of the code the authority to update their copy of the license to the latest revision. This mechanism reflects a commitment to keeping the license aligned with emerging open-source trends.
 
