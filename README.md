@@ -76,4 +76,4 @@ Remember to code responsibly and have fun building awesome things! 🚀✨
 
 ## The easy (and lazy) way to create a copy of the latest SPL
 
-Use [this tool](https://nodemixaholic.com/generate-spl/) to enter your name (or the name of your org), and it will output a copy of the SPL easily and for free. You can see the source for this tool [here.](generate-spl/)
+Use [this tool](https://nodemixaholic.com/generate-spl/) to enter your name (or the name of your org), and it will output a copy of the SPL easily and for free. You can see the source for this tool [here.](https://github.com/nodemixaholic/generate-spl/)
