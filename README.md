@@ -1,6 +1,10 @@
 # samuel-public-license
 The latest Samuel Public License (SPL)
 
+## What is the point of this?
+
+In essence, the SPL-R4 is designed to provide a balance between granting users significant freedoms in using the software while ensuring certain conditions are met and maintaining ownership rights for the original authors.
+
 ## Quick (fun) overview
 
 Howdy! Here's a summary of The Samuel Public License (SPL-R4):
