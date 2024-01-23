@@ -3,7 +3,7 @@ The latest Samuel Public License (SPL)
 
 ## Quick (fun) overview
 
-Howdy! Here's a summary of The Samuel Public License (SPL-R3):
+Howdy! Here's a summary of The Samuel Public License (SPL-R4):
 
 - **Who Owns It?**
   - Created by Samuel Lord in 2024.
