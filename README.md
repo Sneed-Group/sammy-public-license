@@ -1,9 +1,9 @@
-# samuel-public-license
-The latest Samuel Public License (SPL)
+# Sammy-public-license
+The latest Sammy Public License (SPL)
 
 ## What is the point of this?
 
-The Samuel Public License Revision 5 (SPL-R5) represents a significant evolution in open-source licensing, embracing a balanced approach to foster collaboration, sustainability, and innovation. Crafted with precision, this license reflects a commitment to providing users with extensive freedoms while introducing new elements that address the changing landscape of software development.
+The Sammy Public License Revision 5 (SPL-R5) represents a significant evolution in open-source licensing, embracing a balanced approach to foster collaboration, sustainability, and innovation. Crafted with precision, this license reflects a commitment to providing users with extensive freedoms while introducing new elements that address the changing landscape of software development.
 
 At its core, SPL-R5 continues the tradition of granting users permission, without charge, to engage with the software and its documentation. This license goes beyond mere authorization, empowering individuals to use, copy, modify, merge, publish, distribute, sublicense, and even sell copies of the software. The inclusion of specific restrictions ensures that these permissions are exercised responsibly, promoting ethical and lawful use.
 
